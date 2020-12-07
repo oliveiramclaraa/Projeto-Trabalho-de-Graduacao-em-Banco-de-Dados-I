@@ -9,6 +9,7 @@ RA: 1460281823033
 ## RESUMO
 
 É certo que inserção no mercado de trabalho, bem como a mentoria de uma pessoa capacitada para dar a correta orientação, são essenciais para a reabilitação de jovens infratoras obrigadas ao cumprimento de medidas socioeducativas ("jovens"). O objetivo deste projeto é construção de uma plataforma digital funcional, nos moldes de uma rede social voltada para conexões profissionais, onde pessoas (físicas e jurídicas) engajadas com a causa da inclusão social ("voluntáries") possam oferecer vagas de trabalho e mentoria às jovens. A ferramenta também conta com uma parte voltada à orientação vocacional, com instruções para a elaboração de um currículum vitae virtual, e que associe etiquetas ("tags") ao perfil das jovens, correspondentes aos interesses e habilidades, conforme dados extraídos da construção do perfil. Com base nas características de voluntáries e jovens, bem como nas tags associadas a seus perfis, a plataforma buscará realizar recomendação de conexões, vagas e mentorias, utilizando inteligência artificial. A plataforma deverá contar com uma diagramação que priorize a usabilidade, visto que o público principal será a jovens, cuja maioria dispõe de pouco conhecimento técnico. 
+
 Palavras-Chave: Inclusão; Jovens; Medidas Socioeducativas; Emprego; Reabilitação. 
 
 ## ABSTRACT
@@ -18,8 +19,6 @@ It is certain that insertion in the labor market, as well as mentoring by someon
 Keywords: Inclusion; Youngsters; Socio-educational measures; Job; Rehabilitation.
 
 ## 1. INTRODUÇÃO 
-
- 
 
 A transformação de nossa sociedade passa obrigatoriamente pela inclusão de pessoas desprivilegiadas em todas as esferas de produção e pensamento, a fim de diminuir a desigualdade que debilita a grande maioria da população brasileira, oferecendo-lhes uma melhor condição de competição em uma corrida em que apenas uma minoria já nasce com vantagens na partida. 
 
